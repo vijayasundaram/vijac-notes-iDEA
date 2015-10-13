@@ -1,0 +1,25 @@
+<div data-ng-controller="listNotesController">
+    <form class="form">
+        <div class="form-group">
+            <input type="text" ng-model="search" class="form-control" placeholder="Search">
+        </div>
+    </form>
+    <hr>
+	<div class="panel panel-full-alt3" data-ng-repeat="note in notes|filter:search">
+     
+     <div class="panel-heading">
+       <div>
+        {{note.title}}
+           <a href="#/editNote/{{note.key}}" class="open-note">
+               <span class="pull-right clearfix btn btn-primary btn-xs"><i class="fa fa-arrow-circle-right"></i>open</span>
+           </a>
+       	<date><i class="fa fa-clock-o"> </i>{{note.createdDate | date :'medium'}}<span data-ng-show="{{note.updatedDate}}" am-time-ago="note.updatedDate" class="date-lastupdated pull-right"></span></date>
+       </div>
+     </div>
+     
+     <div class="panel-body">
+       <div data-ng-bind-html="note.content | trusthtml"></div>
+     </div>
+
+   </div>
+</div>
