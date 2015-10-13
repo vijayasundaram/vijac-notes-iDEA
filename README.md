@@ -404,3 +404,27 @@ Oct 13, 2015 4:56:58 PM com.google.appengine.api.datastore.dev.LocalDatastoreSer
 INFO: Time to persist datastore: 1 ms
 Oct 13, 2015 4:57:28 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
 INFO: Time to persist datastore: 1 ms
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO: MailService.send
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:   From: Vijac-Notes <vijay.sundaram@a-cti.com>
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:   To: vijayasundaram <vijay.sundaram@a-cti.com>
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:   Reply-to: Vijac-Notes <vijay.sundaram@a-cti.com>
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:   Subject: New user has joined Vijac Notes - Using GA!
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:   Body:
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:     Content-type: text/plain
+Oct 13, 2015 5:37:54 PM com.google.appengine.api.mail.dev.LocalMailService log
+INFO:     Data length: 61
+Oct 13, 2015 5:37:58 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
+INFO: Time to persist datastore: 10 ms
+Oct 13, 2015 5:41:34 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
+INFO: Time to persist datastore: 29 ms
+Oct 13, 2015 5:53:04 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
+INFO: Time to persist datastore: 3 ms
+Oct 13, 2015 6:17:04 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
+INFO: Time to persist datastore: 21 ms

@@ -46,16 +46,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="GAHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/GAHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3793#3808#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AccountController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/AccountController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="86" column="57" selection-start-line="86" selection-start-column="57" selection-end-line="86" selection-end-column="57" />
+              <caret line="86" column="53" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
               <folding>
                 <element signature="e#1290#1291#0" expanded="true" />
                 <element signature="e#1328#1329#0" expanded="true" />
-                <element signature="e#4848#4878#1" expanded="true" />
-                <element signature="e#4947#4976#1" expanded="true" />
+                <element signature="e#4844#4874#1" expanded="true" />
+                <element signature="e#4943#4972#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,19 +78,20 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="165" column="35" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
+              <caret line="205" column="16" selection-start-line="205" selection-start-column="16" selection-end-line="205" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listNotes.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="listNotes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.915212">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,21 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notesapp.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="notesapp.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="133" selection-start-line="0" selection-start-column="133" selection-end-line="0" selection-end-column="133" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/login.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.41755888">
+              <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -166,16 +170,16 @@
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/AuthenticationInterceptor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/NoteController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/login.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/GAHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/model/Note.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/model/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/AccountController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/partials/account.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/lib/dirPagination.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/GAHelper.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js" />
       </list>
     </option>
   </component>
@@ -411,7 +415,7 @@
     <property name="project.structure.side.proportion" value="0.33666334" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="inde&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;list&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/partials/listNotes.html&#10;note&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;main&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/css/main.css&#10;index&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;notesapp&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;ga&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/GAHelper.java&#10;login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;logi&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;inter&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/AuthenticationInterceptor.java&#10;user/login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;user&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/model/User.java&#10;acc&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/AccountController.java&#10;app&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;addnote&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/resources/partials/addNote.html&#10;noteapp&#9;null&#9;null&#10;notecont&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;ind&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;authen&#9;PSI&#9;JAVA://com.vijac.notes.utility.AuthenticationInterceptor&#10;regis&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/register.jsp&#10;web&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/web.xml&#10;pom&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/pom.xml&#10;homecon&#9;PSI&#9;JAVA://com.vijac.notes.controller.HomeController&#10;pm&#9;PSI&#9;JAVA://com.vijac.notes.utility.PMHelper" />
+    <property name="SearchEverywhereHistoryKey" value="notesapp&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;listcontr&#9;null&#9;null&#10;ga&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/GAHelper.java&#10;inde&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;list&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/partials/listNotes.html&#10;note&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;main&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/css/main.css&#10;index&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;logi&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;inter&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/AuthenticationInterceptor.java&#10;user/login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;user&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/model/User.java&#10;acc&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/AccountController.java&#10;app&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;addnote&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/resources/partials/addNote.html&#10;noteapp&#9;null&#9;null&#10;notecont&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;ind&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;authen&#9;PSI&#9;JAVA://com.vijac.notes.utility.AuthenticationInterceptor&#10;regis&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/register.jsp&#10;web&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/web.xml&#10;pom&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/pom.xml&#10;homecon&#9;PSI&#9;JAVA://com.vijac.notes.controller.HomeController&#10;pm&#9;PSI&#9;JAVA://com.vijac.notes.utility.PMHelper" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -425,7 +429,7 @@
       <recent name="D:\Workspace-Vijac\NotesApp\Vijac-Notes.Idea\src\main\webapp\WEB-INF\classes\META-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Google AppEngine Dev Server.AppEngine Dev 1.9.27">
+  <component name="RunManager" selected="Google App Engine Deployment.Google App Engine Deployment">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -579,17 +583,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32736155" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19706841" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.262215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.262215" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32736155" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -686,8 +690,8 @@
           <folding>
             <element signature="e#1290#1291#0" expanded="true" />
             <element signature="e#1328#1329#0" expanded="true" />
-            <element signature="e#4848#4878#1" expanded="true" />
-            <element signature="e#4947#4976#1" expanded="true" />
+            <element signature="e#4844#4874#1" expanded="true" />
+            <element signature="e#4943#4972#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -771,6 +775,7 @@
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -974,17 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/GAHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7259953">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3793#3808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/model/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -994,32 +988,6 @@
             <element signature="e#1383#1384#0" expanded="true" />
             <element signature="e#1436#1437#0" expanded="true" />
             <element signature="e#1480#1481#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/NoteController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1048,6 +1016,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/GAHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3793#3808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.846154">
@@ -1056,42 +1053,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="133" selection-start-line="0" selection-start-column="133" selection-end-line="0" selection-end-column="133" />
-          <folding />
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="91" selection-start-line="7" selection-start-column="91" selection-end-line="7" selection-end-column="91" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="57" selection-start-line="86" selection-start-column="57" selection-end-line="86" selection-end-column="57" />
+          <caret line="86" column="53" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
           <folding>
             <element signature="e#1290#1291#0" expanded="true" />
             <element signature="e#1328#1329#0" expanded="true" />
-            <element signature="e#4848#4878#1" expanded="true" />
-            <element signature="e#4947#4976#1" expanded="true" />
+            <element signature="e#4844#4874#1" expanded="true" />
+            <element signature="e#4943#4972#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="165" column="35" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
+          <caret line="205" column="16" selection-start-line="205" selection-start-column="16" selection-end-line="205" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.915212">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.41755888">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>

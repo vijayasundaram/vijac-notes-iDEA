@@ -41,16 +41,19 @@ var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','
 
 
     notesApp.controller('listNotesController', function($scope,$http) {
-    	$http.get('/note/').success(function(data) {
-   		 $scope.notes = data;
-
+        var over = '<div id="overlay"><i id="loading" class="fa fa-cog fa-spin fa-4x"></i></div>';$(over).appendTo('body');//Append Loading Animation
+        $http.get('/note/').success(function(data) {
+            $scope.notes = data;
+            $scope.noOfNotes = data.length;
+            $('#overlay').remove();
     	});
     });
 
     notesApp.controller('addNoteController', function($scope,$http) {
-    	
+
     	$scope.noteData    = {};
     	$scope.addNote = function(){
+            var over = '<div id="overlay"><i id="loading" class="fa fa-cog fa-spin fa-4x"></i></div>';$(over).appendTo('body');//Append Loading Animation
     		$http({
     	        url: '/note/',
     	        method: "POST",
@@ -58,10 +61,9 @@ var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','
     	        data    : $.param($scope.noteData),
     	    })
     	    .then(function(data) {
-    	    	 console.log(data);
-
-    	    	 window.location.href = "#/";
-
+                    $('#overlay').remove();
+                    console.log(data);
+                    window.location.href = "#/";
     	    }, 
     	    function(response) { // optional
     	            // failed
@@ -71,12 +73,15 @@ var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','
 
     notesApp.controller('editNoteController', function($scope,$routeParams,$http,$location) {
     	$scope.key = $routeParams.key;
-    	//Get note values to populate the form
-    	$http.get('/note/'+$scope.key+'/').success(function(data) {
-      		 $scope.noteData = data;
+        var over = '<div id="overlay"><i id="loading" class="fa fa-cog fa-spin fa-4x"></i></div>';$(over).appendTo('body');//Append Loading Animation
+        //Get note values to populate the form
+        $http.get('/note/'+$scope.key+'/').success(function(data) {
+            $scope.noteData = data;
+            $('#overlay').remove();
        	});
     	//Put note values to update the note Object
     	$scope.editNote = function(){
+            var over = '<div id="overlay"><i id="loading" class="fa fa-cog fa-spin fa-4x"></i></div>';$(over).appendTo('body');//Append Loading Animation
     		$http({
     	        url: '/note/'+$scope.key+'/',
     	        method: "PUT",
@@ -85,6 +90,7 @@ var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','
     	    })
     	    .then(function(data) {
     	    	 console.log(data);
+                 $('#overlay').remove();
     	    	 window.location.href = "#/";
     	    }, 
     	    function(response) { // optional
@@ -96,6 +102,7 @@ var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','
     		var canDelete = confirm("You sure you want to delete "+$scope.noteData.title+"?");
     		if(canDelete)
     		{
+                var over = '<div id="overlay"><i id="loading" class="fa fa-cog fa-spin fa-4x"></i></div>';$(over).appendTo('body');//Append Loading Animation
     			$http({
     		
     	        url: '/note/'+$scope.key+'/',
@@ -104,6 +111,7 @@ var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','
 	    	    })
 	    	    .then(function(data) {
 	    	    	 console.log(data);
+                     $('#overlay').remove();
 	    	    	 window.location.href = "#/";
 	    	    }, 
 	    	    function(response) { // optional

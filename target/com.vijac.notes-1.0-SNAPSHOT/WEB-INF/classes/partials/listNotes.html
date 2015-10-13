@@ -4,6 +4,9 @@
             <input type="text" ng-model="search" class="form-control title-heading" placeholder="Search" style="width: 103%; margin:0  0 0 -15px;padding: 0px;" >
         </div>
     </form>
+    <div ng-hide="noOfNotes">
+        <h4 style="color:#5b9bd1;text-align: center;">Time to create a new note, it seems..</h4>
+    </div>
     <div class="panel panel-full-alt3" data-dir-paginate="note in notes|filter:search|itemsPerPage:5">
      
      <div class="panel-heading">

@@ -84,7 +84,7 @@ public class AccountController {
                     Message msg = new MimeMessage(sessionMail);
                     msg.setFrom(new InternetAddress("vijay.sundaram@a-cti.com", "Notes App"));
                     msg.addRecipient(Message.RecipientType.TO,
-                            new InternetAddress(testEmail, name));
+                            new InternetAddress(email, name));
                     msg.setSubject("Welcome to Notes: Account creation successful!");
                     msg.setText(msgBody);
                     Transport.send(msg);
