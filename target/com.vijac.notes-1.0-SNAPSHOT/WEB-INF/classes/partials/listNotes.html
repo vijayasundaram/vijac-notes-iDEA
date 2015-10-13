@@ -1,11 +1,10 @@
 <div data-ng-controller="listNotesController">
     <form class="form">
         <div class="form-group">
-            <input type="text" ng-model="search" class="form-control" placeholder="Search">
+            <input type="text" ng-model="search" class="form-control title-heading" placeholder="Search" style="width: 103%; margin:0  0 0 -15px;padding: 0px;" >
         </div>
     </form>
-    <hr>
-	<div class="panel panel-full-alt3" data-ng-repeat="note in notes|filter:search">
+    <div class="panel panel-full-alt3" data-dir-paginate="note in notes|filter:search|itemsPerPage:5">
      
      <div class="panel-heading">
        <div>
@@ -22,4 +21,9 @@
      </div>
 
    </div>
+    <dir-pagination-controls
+            max-size="5"
+            direction-links="true"
+            boundary-links="true" >
+    </dir-pagination-controls>
 </div>

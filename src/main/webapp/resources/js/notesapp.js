@@ -1,4 +1,4 @@
-var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','angularMoment']).filter('trusthtml', ['$sce', function ($sce) {
+var notesApp = angular.module('notesApp', ['ngRoute','summernote','ngSanitize','angularMoment','angularUtils.directives.dirPagination']).filter('trusthtml', ['$sce', function ($sce) {
     return function(t) {
         return $sce.trustAsHtml(t)
     }

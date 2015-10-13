@@ -79,6 +79,7 @@
 <script src="/resources/js/lib/summernote.min.js"></script>
 <script src="/resources/js/lib/angular-summernote.js"></script>
 <script src="/resources/js/lib/angular-sanitize.js"></script>
+<script src="/resources/js/lib/dirPagination.js"></script>
 <script src="/resources/js/notesapp.js" type ="text/javascript"></script>
 </body>
 </html>

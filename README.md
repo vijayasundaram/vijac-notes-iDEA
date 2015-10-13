@@ -400,3 +400,7 @@ Oct 13, 2015 2:57:28 PM com.google.appengine.api.datastore.dev.LocalDatastoreSer
 INFO: Time to persist datastore: 1 ms
 Oct 13, 2015 4:05:28 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
 INFO: Time to persist datastore: 1 ms
+Oct 13, 2015 4:56:58 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
+INFO: Time to persist datastore: 1 ms
+Oct 13, 2015 4:57:28 PM com.google.appengine.api.datastore.dev.LocalDatastoreService$PersistDatastore persist
+INFO: Time to persist datastore: 1 ms

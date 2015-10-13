@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="191" column="35" selection-start-line="191" selection-start-column="35" selection-end-line="191" selection-end-column="35" />
+              <caret line="165" column="35" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -74,9 +74,11 @@
       <file leaf-file-name="listNotes.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29675812">
-              <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
-              <folding />
+            <state vertical-scroll-proportion="0.915212">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,6 +88,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.846154">
+              <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notesapp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="133" selection-start-line="0" selection-start-column="133" selection-end-line="0" selection-end-column="133" />
               <folding />
             </state>
           </provider>
@@ -101,16 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-43.884617">
-              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="account.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/account.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,28 +133,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Note.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/model/Note.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-              <folding>
-                <element signature="e#1350#1351#0" expanded="true" />
-                <element signature="e#1383#1384#0" expanded="true" />
-                <element signature="e#1436#1437#0" expanded="true" />
-                <element signature="e#1480#1481#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -163,8 +160,6 @@
         <option value="$PROJECT_DIR$/src/main/webapp/resources/partials/addNote.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/lib/angular-notify.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/angular-notify.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/AccountHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/PasswordHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/HomeController.java" />
@@ -176,6 +171,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/AccountController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/partials/account.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/lib/dirPagination.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html" />
       </list>
@@ -284,6 +282,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -303,11 +305,93 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vijac-Notes.Idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vijac-Notes.Idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vijac-Notes.Idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vijac-Notes.Idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vijac-Notes.Idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vijac-Notes.Idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,7 +411,7 @@
     <property name="project.structure.side.proportion" value="0.33666334" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="list&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/partials/listNotes.html&#10;note&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;main&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/css/main.css&#10;index&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;notesapp&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;ga&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/GAHelper.java&#10;login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;logi&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;inter&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/AuthenticationInterceptor.java&#10;user/login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;user&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/model/User.java&#10;acc&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/AccountController.java&#10;inde&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;app&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;addnote&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/resources/partials/addNote.html&#10;noteapp&#9;null&#9;null&#10;notecont&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;ind&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;authen&#9;PSI&#9;JAVA://com.vijac.notes.utility.AuthenticationInterceptor&#10;regis&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/register.jsp&#10;web&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/web.xml&#10;pom&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/pom.xml&#10;homecon&#9;PSI&#9;JAVA://com.vijac.notes.controller.HomeController&#10;pm&#9;PSI&#9;JAVA://com.vijac.notes.utility.PMHelper" />
+    <property name="SearchEverywhereHistoryKey" value="inde&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;list&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/partials/listNotes.html&#10;note&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;main&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/css/main.css&#10;index&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;notesapp&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;ga&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/GAHelper.java&#10;login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;logi&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;inter&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/utility/AuthenticationInterceptor.java&#10;user/login&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/login.jsp&#10;user&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/model/User.java&#10;acc&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/AccountController.java&#10;app&#9;FILE&#9;file://D:/iDEA-Workspace/Vijac-Notes.Idea/src/main/webapp/resources/js/notesapp.js&#10;addnote&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/resources/partials/addNote.html&#10;noteapp&#9;null&#9;null&#10;notecont&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/java/com/vijac/notes/controller/NoteController.java&#10;ind&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/note/index.jsp&#10;authen&#9;PSI&#9;JAVA://com.vijac.notes.utility.AuthenticationInterceptor&#10;regis&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/views/user/register.jsp&#10;web&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/src/main/webapp/WEB-INF/web.xml&#10;pom&#9;FILE&#9;file://D:/Workspace-Vijac/NotesApp/Vijac-Notes.Idea/pom.xml&#10;homecon&#9;PSI&#9;JAVA://com.vijac.notes.controller.HomeController&#10;pm&#9;PSI&#9;JAVA://com.vijac.notes.utility.PMHelper" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -571,14 +655,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -693,7 +769,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -896,14 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="109" selection-start-line="0" selection-start-column="107" selection-end-line="0" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/utility/GAHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.7259953">
@@ -954,6 +1024,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.0">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="95" column="15" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/lib/dirPagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9203747">
+          <caret line="571" column="5" selection-start-line="571" selection-start-column="5" selection-end-line="571" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.846154">
+          <caret line="82" column="31" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/notesapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="133" selection-start-line="0" selection-start-column="133" selection-end-line="0" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/vijac/notes/controller/AccountController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -967,43 +1077,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/note/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-43.884617">
-          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="95" column="15" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="191" column="35" selection-start-line="191" selection-start-column="35" selection-end-line="191" selection-end-column="35" />
+          <caret line="165" column="35" selection-start-line="165" selection-start-column="35" selection-end-line="165" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/partials/listNotes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29675812">
-          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
-          <folding />
+        <state vertical-scroll-proportion="0.915212">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -71,7 +71,7 @@ body {
 
 .title-heading{
 	margin-left: 0px;
-    margin-top: -40px;
+    margin-top: -20px;
     padding-left:20px !important;
     font-size: 26px !important;
     height:50px;
@@ -129,13 +129,14 @@ body {
   border-left: 2px solid #5b9bd1;
   margin-left: -2px;
 }
+
 /*Spacing between fa*/
 .fa{
     margin-right: 5px;
 }
 /* Notes Content */
 .notes-content {
-  padding: 20px;
+  padding: 0px;
   min-height: 460px;
 }
 
@@ -162,6 +163,7 @@ date{
 .panel.panel-full-alt3 {
     margin: -15px -15px 25px;
     color: #666;
+    border-left: 3px solid #f6f9fb;
     	
 }
 .panel-heading {
@@ -185,7 +187,7 @@ date{
 .panel{
     /*box-shadow: 0px 0px 5px #aab2bd;*/
     box-shadow: none;
-    border-left: 3px solid #f6f9fb;
+
 }
 .panel-footer{
     border-radius:0px;
